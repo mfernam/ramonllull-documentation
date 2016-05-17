@@ -27,5 +27,5 @@ Referencias catastrales:
 7. Utilizando **Descargar finca inicial**.
 8. Ventana donde se cargan las referencias catastrales de las fincas implicadas en la operación de agregación. Se van descargando una a una, las fincas que se van a agregar, insertando su referencia catastral (los catorce primeros dígitos en la ventana.
 9. Podemos visualizar las cuatro parcelas que hemos añadido en la ventana gráfica.
-10. Correspondiente al inmueble resultante de la agrupación, mediante **Generar finca resultante**.![](/images/agg.png)
+10. Correspondiente al inmueble resultante de la agrupación, mediante **Generar finca resultante**.![](/images/agg2.png)
 11. Al **Generar la declaración catastral** aparecen las siguientes ventanas:
