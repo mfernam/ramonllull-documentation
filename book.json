@@ -1,7 +1,6 @@
 {
     "plugins": [
         "anchors",
-        "theme-default",
         "customtheme",
         "wabtheme",
         "mermaid"
