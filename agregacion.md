@@ -15,7 +15,7 @@ Referencias catastrales:
 **5625904BD4052N**
 
 **5625906BD4052N**
-  
+  ![](/images/agg1.png)
   Procedimiento a seguir:
 
 1. Nos aseguramos que estamos en la pestaña de **nuevo expediente**.
