@@ -42,9 +42,9 @@ Desde un punto de vista económico, la integración de la información geográfi
 
 La coordinación del contenido de la escritura pública con la información de la base de datos geográfica supone un flujo de circulación que seguiría una distinta dirección atendiendo al momento que se produzca:
 
-    Antes del otorgamiento de la escritura pública, se produciría una descarga de los datos de la base de datos geográfica a fin de actualizar el contenido de la escritura pública.
-    Después del otorgamiento de la escritura pública tendría lugar una recarga de los nuevos datos contenidos en la escritura pública en la base de datos geográfica.
-    De esta forma se produce un flujo permanente de intercambio de circulación entre la escritura pública y la base de datos geográfica.
+Antes del otorgamiento de la escritura pública, se produciría una descarga de los datos de la base de datos geográfica a fin de actualizar el contenido de la escritura pública.
+Después del otorgamiento de la escritura pública tendría lugar una recarga de los nuevos datos contenidos en la escritura pública en la base de datos geográfica.
+De esta forma se produce un flujo permanente de intercambio de circulación entre la escritura pública y la base de datos geográfica.
 
 Aplicación Ramón Llull (PRL)
 
