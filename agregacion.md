@@ -1,4 +1,4 @@
-# agregacion
+# Agregación
 
 CASO 1 : Agregación
 
