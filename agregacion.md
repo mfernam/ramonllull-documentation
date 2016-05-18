@@ -31,7 +31,10 @@ Referencias catastrales:
 9. Podemos visualizar las cuatro parcelas que hemos añadido en la ventana gráfica.
 10. Correspondiente al inmueble resultante de la agrupación, mediante **Generar finca resultante**.![](/images/agg2.png)
 11. Al **Generar la declaración catastral** aparecen las siguientes ventanas: 
-  12. **Declarantes**, ventana para insertar los datos del declarante. ![](/images/agg3.jpg)
+  
+  **Declarantes**, ventana para insertar los datos del declarante. ![](/images/agg3.jpg)
   En *Fincas Matrices* vemos los datos de cada una de las parcelas implicadas en la operación de agregación, referencia catastral, superficie, núcleo. La finca resultante mantiene la referencia catastral de una de las parcelas implicadas en la operación de agregación. En esta ventanas es donde tenemos que indicarle la referencia catastral de que parcela, va a ser transferida a la finca resultante.
   ![](/images/agg4.jpg)
   En *Finca Resultante* vemos los datos de la parcela resultante de la operación de agregación, referencia catastral, superficie o núcleo urbano.
+  
+  Por último, se genera informe en formato de impresión (pdf) con todos los datos de las parcelas implicadas, el inmueble resultante y un plano (con información de escala, coordenadas geográficas, etc). En el anexo final de esta practica guiada se incluye  la declaración de esta operación. 
