@@ -36,5 +36,6 @@ Referencias catastrales:
   En *Fincas Matrices* vemos los datos de cada una de las parcelas implicadas en la operación de agregación, referencia catastral, superficie, núcleo. La finca resultante mantiene la referencia catastral de una de las parcelas implicadas en la operación de agregación. En esta ventanas es donde tenemos que indicarle la referencia catastral de que parcela, va a ser transferida a la finca resultante.
   ![](/images/agg4.jpg)
   En *Finca Resultante* vemos los datos de la parcela resultante de la operación de agregación, referencia catastral, superficie o núcleo urbano.
-  
+  ![](/images/agg5.jpg)
   Por último, se genera informe en formato de impresión (pdf) con todos los datos de las parcelas implicadas, el inmueble resultante y un plano (con información de escala, coordenadas geográficas, etc). En el anexo final de esta practica guiada se incluye  la declaración de esta operación. 
+  ![](/images/agg6.jpg)
