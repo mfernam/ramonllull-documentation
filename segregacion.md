@@ -1,2 +1,2 @@
-# segregacion
+# Segregación
 
