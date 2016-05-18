@@ -12,4 +12,15 @@ La referencia catastral:
 
 Resumen de la operación:
 
-La Notaría genera la operación correspondiente a la segregación, descarga la finca correspondiente a esa referencia catastral, lo asigna al técnico y archiva el expediente.
+**La Notaría** genera la operación correspondiente a la segregación, descarga la finca correspondiente a esa referencia catastral, lo asigna al técnico y archiva el expediente.
+
+
+Procedimiento a seguir:
+
+1) Generamos un nuevo expediente en la pestaña de “Nuevo expediente”.
+2) El programa asigna un número de expediente automáticamente.
+3) Le indicamos el tipo de operación que se va a realizar, en este caso “Segregación”.
+4) Le indicamos el solicitante o los solicitantes.
+5) Insertamos una breve descripción del proyecto.
+6) Con el botón derecho sobre “Operaciones”, se despliega un menú con las operaciones que puedes realizar.
+7) Le indicamos la operación que vamos a realizar, en este caso “Nueva Segregación”.
