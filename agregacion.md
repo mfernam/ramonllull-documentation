@@ -38,3 +38,7 @@ Referencias catastrales:
   ![](/images/agg5.jpg)
   Por último, se genera informe en formato de impresión (pdf) con todos los datos de las parcelas implicadas, el inmueble resultante y un plano (con información de escala, coordenadas geográficas, etc). En el anexo final de esta practica guiada se incluye  la declaración de esta operación. 
   ![](/images/agg6.jpg)
+  **El resultado final**:
+  ![](/images/agg7.jpg)
+  
+12. Al **Generar la declaración catastral** aparecen las siguientes ventanas: A la hora de salir, nos aseguramos siempre de guardar los cambios realizados en el expediente.
