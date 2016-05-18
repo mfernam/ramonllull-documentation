@@ -40,6 +40,7 @@ Referencias catastrales:
   ![](/images/agg5.jpg)
   
   Por último, se genera informe en formato de impresión (pdf) con todos los datos de las parcelas implicadas, el inmueble resultante y un plano (con información de escala, coordenadas geográficas, etc). En el anexo final de esta practica guiada se incluye  la declaración de esta operación. 
+  
   ![](/images/agg6.jpg)
   
   **El resultado final**:
