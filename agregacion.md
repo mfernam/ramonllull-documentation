@@ -1,6 +1,5 @@
 # Agregación
 
-CASO 1 : Agregación
 
 *Supuesto de hecho:*
 
