@@ -32,6 +32,7 @@ Referencias catastrales:
 11. Al **Generar la declaración catastral** aparecen las siguientes ventanas: 
   
   **Declarantes**, ventana para insertar los datos del declarante. ![](/images/agg3.jpg)
+  
   En *Fincas Matrices* vemos los datos de cada una de las parcelas implicadas en la operación de agregación, referencia catastral, superficie, núcleo. La finca resultante mantiene la referencia catastral de una de las parcelas implicadas en la operación de agregación. En esta ventanas es donde tenemos que indicarle la referencia catastral de que parcela, va a ser transferida a la finca resultante.
   ![](/images/agg4.jpg)
   
