@@ -26,10 +26,13 @@ Procedimiento a seguir:
 7. Le indicamos la operación que vamos a realizar, en este caso **Nueva Segregación**.
 8. En **Descargar finca matriz** se añade la referencia catastral de la finca objeto de la operación.
  
-[](/images/seg2.jpg) 
+![](/images/seg2.jpg) 
+![](/images/seg3.jpg)
 
 9. Ventana donde se carga la referencia catastral de la finca objeto de la operación de segregación.
 10. Hay que **Guardar los expediente**, para que se pueda generar fichero para técnico competente.
 11. La notaría asigna a este expediente un técnico competente. 
 12. Asignamos nuevo técnico, **Asignar nuevo técnico**.
 13. Desde la notaría, rellena los datos de asignación de técnico y le da al botón **Asignar**, entonces se asigna este expediente a un técnico competente.
+14. En el árbol del expediente ya aparecen los técnicos asociados a ese expediente.
+15. Hay que asegurarnos, siempre de guardar el expediente, antes de salir.
