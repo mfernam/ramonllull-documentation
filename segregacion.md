@@ -29,7 +29,7 @@ Procedimiento a seguir:
 [](/images/seg2.jpg) 
 
 9. Ventana donde se carga la referencia catastral de la finca objeto de la operación de segregación.
-10. Hay que “Guardar los expediente”, para que se pueda generar fichero para técnico competente.
-11. La notaría asigna a este expediente un técnico competente mediante 
-12. Asignamos nuevo técnico, “Asignar nuevo técnico”.
-13. Desde la notaría, rellena los datos de asignación de técnico y le da al botón “Asignar” asigna a este expediente un técnico competente.
+10. Hay que **Guardar los expediente**, para que se pueda generar fichero para técnico competente.
+11. La notaría asigna a este expediente un técnico competente. 
+12. Asignamos nuevo técnico, **Asignar nuevo técnico**.
+13. Desde la notaría, rellena los datos de asignación de técnico y le da al botón **Asignar**, entonces se asigna este expediente a un técnico competente.
