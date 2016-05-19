@@ -24,7 +24,7 @@ Procedimiento a seguir:
 5. Insertamos una breve descripción del proyecto.
 6. Con el botón derecho sobre **Operaciones**, se despliega un menú con las operaciones que puedes realizar.
 7. Le indicamos la operación que vamos a realizar, en este caso **Nueva Segregación**.
-8. En “Descargar finca matriz” se añade la referencia catastral de la finca objeto de la operación.
+8. En **Descargar finca matriz** se añade la referencia catastral de la finca objeto de la operación.
  
 [](/images/seg2.jpg) 
 
