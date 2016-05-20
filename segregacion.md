@@ -54,4 +54,5 @@ Después:
 ![Después](/images/seg9.jpg)
 Una vez efectuada la operación, el fichero resultante se archiva con el prefijo "retorno", manteniendo el resto del nombre (\*.rx1.dxf).
 Es muy importante guardar el fichero en la versión más antigua de DXF que permita el programa ASCII R12, (por defecto  Autocad  guarda en formato ASCII).
-s
+
+Volvemos a abrir la aplicación **Ramón Llull** y cargamos el fichero DXF, que acabamos de crear, en la aplicación y archiva el expediente con las modificaciones introducidas.
