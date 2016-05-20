@@ -39,3 +39,5 @@ Procedimiento a seguir:
 14. En el árbol del expediente ya aparecen los técnicos asociados a ese expediente.
 15. Hay que asegurarnos, siempre de guardar el expediente, antes de salir.
 ![](/images/seg5.jpg)
+**El técnico** abre el expediente que le ha sido asignado y genera, desde la aplicación, el **fichero para técnico competente** (fichero DXF), sobre el que adaptará el proyecto técnico de segregación al perímetro dado en este fichero (en coordenadas geográficas UTM de Catastro).
+![](/images/seg6.png)
