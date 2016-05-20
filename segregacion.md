@@ -33,7 +33,9 @@ Procedimiento a seguir:
 10. Hay que **Guardar los expediente**, para que se pueda generar fichero para técnico competente.
 11. La notaría asigna a este expediente un técnico competente. 
 12. Asignamos nuevo técnico, **Asignar nuevo técnico**.
-13. Desde la notaría, rellena los datos de asignación de técnico y le da al botón **Asignar**, entonces se asigna este expediente a un técnico competente.
+13. Desde la notaría, rellena los datos de asignación de técnico y le da al botón **Asignar**, entonces se asigna este expediente a un técnico competente
+![](/images/seg4.jpg)
+
 14. En el árbol del expediente ya aparecen los técnicos asociados a ese expediente.
 15. Hay que asegurarnos, siempre de guardar el expediente, antes de salir.
-![](/images/seg4.jpg)
+![](/images/seg5.jpg)
