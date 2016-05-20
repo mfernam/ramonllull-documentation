@@ -45,9 +45,12 @@ Procedimiento a seguir:
 19. Le indicamos donde se guardará el fichero y le damos a aceptar.
 ![](/images/seg7.png)
 Desde un programa CAD, parte la finca con una polilínea que divida la finca en dos parcelas (la finca segregada y el resto de finca matriz), adaptando al fichero generado por el Ramón Llull el trabajo previo de campo o de gabinete.
+
 Antes:
+
 ![Antes](/images/seg8.jpg)
 Después:
+
 ![Después](/images/seg9.jpg)
 Una vez efectuada la operación, el fichero resultante se archiva con el prefijo "retorno", manteniendo el resto del nombre (\*.rx1.dxf).
 Es muy importante guardar el fichero en la versión más antigua de DXF que permita el programa ASCII R12, (por defecto  Autocad  guarda en formato ASCII).
