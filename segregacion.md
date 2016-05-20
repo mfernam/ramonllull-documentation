@@ -58,8 +58,11 @@ Es muy importante guardar el fichero en la versión más antigua de DXF que perm
 Volvemos a abrir la aplicación **Ramón Llull** y cargamos el fichero DXF, que acabamos de crear, en la aplicación y archiva el expediente con las modificaciones introducidas.
 
 ![](/images/seg11.jpg)
+
 Al cargar el fichero vemos como los cambios que hemos realizado en la parcela y cargado en nuestra aplicación ya aparecen reflejados en el expediente.
 
 
 Ya aparece en el árbol de operaciones nos aparece la parcela originaria:
 ![](/images/seg12.jpg)
+
+Por otro lado aparecen, también en el árbol de operaciones, las dos parcelas resultantes de la operación de segregación.
