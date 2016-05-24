@@ -66,3 +66,7 @@ Ya aparece en el árbol de operaciones nos aparece la parcela originaria:
 ![](/images/ope2/seg12.jpg)
 
 Por otro lado aparecen, también en el árbol de operaciones, las dos parcelas resultantes de la operación de segregación.
+
+![](/images/ope2/seg13.jpg)
+
+![](/images/ope2/seg14.jpg)
