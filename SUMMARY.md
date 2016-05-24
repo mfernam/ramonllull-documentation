@@ -7,6 +7,6 @@
 * [Alteraciones catastrales](alteracionescatastrales_md.md)
    * [Agregación](agregacion.md)
    * [Segregación](segregacion.md)
-   * División parcelaria
+   * [División parcelaria](division_parcelaria.md)
 * [Obra nueva y división horizontal](obra_nueva_y_division_horizontal.md)
 
