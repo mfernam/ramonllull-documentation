@@ -70,3 +70,8 @@ Por otro lado aparecen, también en el árbol de operaciones, las dos parcelas r
 ![](/images/ope2/seg13.jpg)
 
 ![](/images/ope2/seg14.jpg)
+Por último, procedemos a **Generar declaración catastral**.
+![](/images/ope2/seg15.jpg)
+Generamos la declaración catastral siguiendo los  pasos que ya se han descritos en el primer caso práctico de este curso) y que tendremos que repetir en este y en el resto de los ejemplos de esta práctica guiada. Como documentación adjunta se incluirá anexo con las **declaraciones catastrales** de todos los casos de esta práctica guiada.
+
+![](/images/ope2/seg16.jpg)
