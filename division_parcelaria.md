@@ -8,3 +8,4 @@ Referencia Catastral:
 
 **5625902BD4052N**
 
+![](/images/ope3/div1.jpg)
