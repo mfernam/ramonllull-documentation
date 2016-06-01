@@ -25,12 +25,12 @@ La **Notaría** crea una nueva operación correspondiente a la **División parce
 8. Nos aseguramos siempre de guardar el expediente.![](/images/ope3/div2.jpg)
 9. Descargamos  finca matriz.1. 
 10. Escribimos la referencia catastral.
-11. Nos aseguramos siempre de guardar el expediente.![](/images/ope3/div4.jpg)
+11. Nos aseguramos siempre de guardar el expediente.![](/images/ope3/div3.jpg)
 12. En el árbol general activamos la opción **Técnicos Asignados**.
-13) Asignamos nuevo técnico.
-14) Le indicamos el DNI del técnico competente.
-15) Le damos al botón de “Asignar”.
-16) Nos aseguramos de “Guardar el expediente”.
+13. Asignamos nuevo técnico. 
+14. Le indicamos el DNI del técnico competente. 
+15. Le damos al botón de **Asignar**.
+16. Nos aseguramos de **Guardar el expediente**.
 A partir de ahora es el técnico competente el que continuá trabajando con este expediente. El  técnico asignado genera el fichero DXF, siguiendo los siguientes pasos:
 
 
