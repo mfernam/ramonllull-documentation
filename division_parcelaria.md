@@ -22,7 +22,7 @@ La **Notaría** crea una nueva operación correspondiente a la **División parce
 5. Insertamos una breve descripción del proyecto.
 6. Con el botón derecho sobre **Operaciones**, se despliega un menú con las operaciones que puedes realizar.
 7. Le indicamos la operación que vamos a realizar, en este caso **Nueva División parcelaria**.
-8. Nos aseguramos siempre de guardar el expediente.![](/images/ope3/div2.jpg)   [](/images/ope3/div3.jpg)
+8. Nos aseguramos siempre de guardar el expediente.![](/images/ope3/div2.jpg)   ![](/images/ope3/div3.jpg)
 9. Descargamos  finca matriz.1. 
 10. Escribimos la referencia catastral.
 11. Nos aseguramos siempre de guardar el expediente.La Notaría asigna un técnico al expediente.![](/images/ope3/div4.jpg)
