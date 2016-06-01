@@ -8,5 +8,6 @@
    * [Agregación](agregacion.md)
    * [Segregación](segregacion.md)
    * [División parcelaria](division_parcelaria.md)
+   * Deslinde
 * [Obra nueva y división horizontal](obra_nueva_y_division_horizontal.md)
 
