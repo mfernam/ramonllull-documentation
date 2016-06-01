@@ -9,6 +9,5 @@
    * [División parcelaria](division_parcelaria.md)
    * [Deslinde](deslinde.md)
    * [Agregación](agregacion.md)
-   * Operaciones simples
 * [Obra nueva y división horizontal](obra_nueva_y_division_horizontal.md)
 
