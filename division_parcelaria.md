@@ -39,6 +39,7 @@ Desde un programa CAD se procede a la división de la finca. La parcela se divid
 ![Antes](/images/ope3/div6.jpg)
 ![Después](/images/ope3/div7.jpg)
 
-
+Una vez efectuada la operación, el fichero resultante se archiva con el prefijo *retorno_*, manteniendo el resto del nombre (\*.rx1.dxf).
+Es muy importante guardar el fichero en la versión más antigua de DXF que permita el programa ASCII R12, (por defecto  AutoCAD  guarda en formato ASCII).
 
 
