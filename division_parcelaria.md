@@ -30,8 +30,9 @@ La **Notaría** crea una nueva operación correspondiente a la **División parce
 13. Asignamos nuevo técnico. 
 14. Le indicamos el DNI del técnico competente. 
 15. Le damos al botón de **Asignar**.
-16. Nos aseguramos de **Guardar el expediente**.
-A partir de ahora es el técnico competente el que continuá trabajando con este expediente. El  técnico asignado genera el fichero DXF, siguiendo los siguientes pasos:
+16. Nos aseguramos de **Guardar el expediente**.A partir de ahora es el técnico competente el que continuá trabajando con este expediente. El  técnico asignado genera el fichero DXF, siguiendo los siguientes pasos:![](/images/ope3/div4.jpg)
+17. Le damos a **Generar fichero para técnico competente**.
+18. Le especificamos una ruta de salida.
 
 
 
