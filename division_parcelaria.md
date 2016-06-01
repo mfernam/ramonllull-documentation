@@ -41,5 +41,7 @@ Desde un programa CAD se procede a la división de la finca. La parcela se divid
 
 Una vez efectuada la operación, el fichero resultante se archiva con el prefijo *retorno_*, manteniendo el resto del nombre (\*.rx1.dxf).
 Es muy importante guardar el fichero en la versión más antigua de DXF que permita el programa ASCII R12, (por defecto  AutoCAD  guarda en formato ASCII).
+![Después](/images/ope3/div8.jpg)
+Volvemos a abrir la aplicación PRL y cargamos el fichero DXF, que acabamos de crear, en la aplicación y archiva el expediente con las modificaciones introducidas
 
 
