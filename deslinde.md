@@ -14,3 +14,4 @@ Juan García y Antonio Soler, quieren modificar el linde común de sus parcelas 
 *Resumen de la operación:*
 
 Al igual que las operaciones anteriores, la Notaría inicia un expediente, genera la operación correspondiente al deslinde, descarga las fincas correspondientes a esas referencias catastrales, lo asigna al técnico y archiva el expediente.
+![](images/ope4/des2.jpg)
