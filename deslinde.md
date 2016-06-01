@@ -33,4 +33,6 @@ Al igual que las operaciones anteriores, la Notaría inicia un expediente, gener
 13. En el árbol del expediente pinchamos sobre **Técnicos asignados**.
 14. Al **Asignar nuevo técnico** nos sale el formulario donde insertar los datos del técnico. Si ya se ha trabajado con él, insertando el DNI se recuperan sus datos  mediante **Copiar de una asignación previa**.
 15. Le damos al botón **Asignar**.
-16. Hay que **Guardar expediente**, sino no dejará generar fichero para técnico competente.
+16. Hay que **Guardar expediente**, sino no dejará generar fichero para técnico competente. ![](images/ope4/des4.jpg) El técnico abre el expediente que le ha sido asignado y genera, desde la aplicación, el fichero para técnico competente (fichero DXF), sobre el que adaptará el proyecto técnico de deslinde al perímetro proporcionado por este fichero (en coordenadas geográficas UTM de Catastro).
+17. Le damos a “Generar fichero para técnico competente”.
+18. Le especificamos una ruta de salida y lo guardamos.
