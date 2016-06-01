@@ -36,5 +36,9 @@ La **Notaría** crea una nueva operación correspondiente a la **División parce
 
 Desde un programa CAD se procede a la división de la finca. La parcela se divide en varias parcelas (adapta el trabajo de campo y/o de gabinete previo) siempre sobre el fichero DXF generado por el Ramón Llull.
 
+![Antes](/images/ope3/div6.jpg)
+![Después](/images/ope3/div7.jpg)
+
+
 
 
