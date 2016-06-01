@@ -23,3 +23,5 @@ La **Notaría** crea una nueva operación correspondiente a la **División parce
 6. Con el botón derecho sobre **Operaciones**, se despliega un menú con las operaciones que puedes realizar.
 7. Le indicamos la operación que vamos a realizar, en este caso **Nueva División parcelaria**.
 8. Nos aseguramos siempre de guardar el expediente.
+
+![](/images/ope3/div2.jpg)
