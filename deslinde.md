@@ -9,6 +9,7 @@ Juan García y Antonio Soler, quieren modificar el linde común de sus parcelas 
 **03063A03100016** (Inmueble de Juan García)
 
 **03063A03100238**  (Inmueble de Antonio Soler)
+
 ![](images/ope4/des1.jpg)
 
 *Resumen de la operación:*
