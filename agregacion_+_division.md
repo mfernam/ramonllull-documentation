@@ -23,3 +23,14 @@ María López compra cuatro parcelas colindantes para proyectar futuras vivienda
 La **Notaría** genera una nueva operación correspondiente a la agrupación y descarga, uno a uno, los inmuebles correspondientes a dichas referencias catastrales, archivando el expediente una vez terminada la descarga y asigna el expediente al técnico que va a realizar la división posterior.
 
 *Procedimiento a seguir: *
+
+1. Nos aseguramos que estamos en la pestaña de **nuevo expediente**.
+2. El programa asigna un numero de expediente automáticamente.
+3. Le indicamos el tipo de operación que se va a realizar.
+4. Le indicamos el solicitante.
+5. Insertamos una breve descripción del proyecto.
+6. Con el botón derecho sobre **Operaciones** le indicamos la operación que vamos a realizar, en este caso **agregación**.
+7. Utilizando **descargar finca inicial**, se van descargando una a una, las fincas que se van a agregar, insertando su referencia catastral.
+9. Ventana donde se cargan las referencias catastrales de las fincas implicadas en la operación de agregación.
+9. Podemos visualizar las cuatro parcelas que hemos añadido en la ventana gráfica.
+10. Al generar la declaración catastral aparecen las siguientes ventanas:
