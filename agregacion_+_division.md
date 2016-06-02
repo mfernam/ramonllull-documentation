@@ -14,7 +14,7 @@ María López compra cuatro parcelas colindantes para proyectar futuras vivienda
 
 **5625904BD4052N**
 
-
+![](images/ag+div/ag+div1.jpg)
 
 1. Agrupación
 
