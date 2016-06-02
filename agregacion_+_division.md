@@ -34,3 +34,11 @@ La **Notaría** genera una nueva operación correspondiente a la agrupación y d
 9. Ventana donde se cargan las referencias catastrales de las fincas implicadas en la operación de agregación.
 9. Podemos visualizar las cuatro parcelas que hemos añadido en la ventana gráfica.
 10. Al generar la declaración catastral aparecen las siguientes ventanas:
+
+![](images/ag+div/ag+div2.jpg)
+
+**Declarantes**, ventana para insertar los datos del declarante.
+
+![](images/ag+div/ag+div3.jpg)
+
+En **Fincas Matrices** vemos los datos de cada una de las parcelas implicadas en la operación de agregación, referencia catastral, superficie, núcleo. Aquí es donde tenemos que indicarle la referencia catastral que va a ser transferida a la finca resultante.
