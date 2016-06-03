@@ -54,3 +54,9 @@ Una vez descargadas todos los inmuebles, la Notaría genera el fichero correspon
 
 A la hora de salir, nos aseguramos siempre de guardar los cambios realizados en el expediente.
 
+**2. División parcelaria**
+
+*Procedimiento a seguir*
+
+Siguiendo en el mismo expediente, el técnico o el Notario, genera la operación de **División parcelaria**.
+Se arrastra la parcela agrupada en la operación anterior  mediante **Copiar** y **Pegar finca agregada**.
