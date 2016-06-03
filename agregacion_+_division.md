@@ -51,3 +51,6 @@ Por último, se genera informe en formato de impresión (pdf) con todos los dato
 
 Una vez descargadas todos los inmuebles, la Notaría genera el fichero correspondiente al inmueble resultante de la agrupación, mediante **Generación de parcela resultante**.
 ![Resultado](images/ag+div/ag+div7.jpg)
+
+A la hora de salir, nos aseguramos siempre de guardar los cambios realizados en el expediente.
+
