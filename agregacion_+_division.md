@@ -42,3 +42,12 @@ La **Notaría** genera una nueva operación correspondiente a la agrupación y d
 ![](images/ag+div/ag+div3.jpg)
 
 En **Fincas Matrices** vemos los datos de cada una de las parcelas implicadas en la operación de agregación, referencia catastral, superficie, núcleo. Aquí es donde tenemos que indicarle la referencia catastral que va a ser transferida a la finca resultante.
+![](images/ag+div/ag+div4.jpg)
+
+En **Finca Resultante** vemos los datos de la parcela resultante de la operación de agregación, referencia catastral, superficie o núcleo urbano.
+![](images/ag+div/ag+div5.jpg)
+Por último, se genera informe en formato de impresión (pdf) con todos los datos de las parcelas implicadas, el inmueble resultante y un plano (con información de escala, coordenadas geográficas, etc). Se incluye un  anexo con todas  las declaraciones. 
+![](images/ag+div/ag+div6.jpg)
+
+Una vez descargadas todos los inmuebles, la Notaría genera el fichero correspondiente al inmueble resultante de la agrupación, mediante **Generación de parcela resultante**.
+![Resultado](images/ag+div/ag+div7.jpg)
