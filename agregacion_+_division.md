@@ -74,3 +74,5 @@ Carga el fichero en la aplicación y archiva el expediente con las modificacione
 ![](images/ag+div/ag+div13.jpg)
 
 Al acceder al expediente de nuevo, desde la Notaría, ya le aparecerán las operaciones de agrupación y división parcelaria realizadas  por el técnico competente y proceder a **Generar la declaración catastral**.
+
+![](images/ag+div/ag+div14.jpg)
