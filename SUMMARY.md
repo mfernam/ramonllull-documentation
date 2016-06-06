@@ -13,5 +13,5 @@
 * [Obra nueva y división horizontal](obra_nueva_y_division_horizontal.md)
    * [Obra nueva](obra_nueva.md)
 * [Licencia](licencia.md)
-   * LGPL
+   * [LGPL](lgpl.md)
 
