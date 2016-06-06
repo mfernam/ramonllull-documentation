@@ -31,8 +31,10 @@ Procedimiento a seguir
 12. Asignamos nuevo técnico.
 13. La Notaría asigna a este expediente un técnico competente.![](images/seg+div/seg+div4.jpg)
 14. Ahora ya aparecen los técnicos asociados a ese expediente.
-15. Hay que asegurarnos, siempre de guardar el expediente, antes de salir.![](images/seg+div/seg+div5.jpg)El técnico abre el expediente que le ha sido asignado y genera, desde la aplicación, el fichero para técnico competente (fichero DXF), sobre el que adaptará el proyecto técnico de segregación al perímetro dado en este fichero (en coordenadas geográficas UTM de Catastro).
+15. Hay que asegurarnos, siempre de guardar el expediente, antes de salir.![](images/seg+div/seg+div5.jpg)El técnico abre el expediente que le ha sido asignado y genera, desde la aplicación, el fichero para técnico competente (fichero DXF), sobre el que adaptará el proyecto técnico de segregación al perímetro dado en este fichero (en coordenadas geográficas UTM de Catastro).![](images/seg+div/seg+div6.jpg)
 16. Abrir el gestor de expedientes y pinchando  en el botón de nº de expediente.
 17. Se abrirá la ventana donde aparece una lista de todos los expedientes que tiene asignados ese técnico con independencia de la Notaría que lo haya asignado. Pinchamos sobre el expediente con el que estamos trabajando, en este caso el 03000000001201200000017, que en la imagen aparece rodeado en rojo.
 18. Al pincha sobre él aparecerá el expediente con todos los datos, que se han generado inicialmente en la notaria, en nuestra ventana de Gestión de expedientes. Generamos el fichero DXF (fichero de intercambio), que será utilizado como base por el técnico para la segregación de la parcela en un programa de edición gráfica.
-19. Le indicamos donde se guardará el fichero y le damos a aceptar.
+19. Le indicamos donde se guardará el fichero y le damos a aceptar.![](images/seg+div/seg+div7.jpg)
+
+Desde un programa CAD, parte la finca con una polilínea que divida la finca en dos parcelas (la finca segregada y el resto de finca matriz), adaptando al fichero generado por el Ramón Llull el trabajo previo de campo o de gabinete.
