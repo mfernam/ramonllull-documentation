@@ -7,3 +7,28 @@ los hermanos Martín,  Juan y Pablo, han heredado por mitades un terreno y quier
 *Referencia catastral:*
 
 **03900A04900121**
+
+![](images/seg+div/seg+div1.jpg)
+
+
+**1. Segregación**
+
+Resumen de la operación:
+Desde la Notaría se genera la operación correspondiente a la segregación, descarga la finca correspondiente a esa referencia catastral, lo asigna al técnico y archiva el expediente.
+
+Procedimiento a seguir
+1. Generamos un nuevo expediente en la pestaña de **nuevo expediente**.
+2. El programa asigna un numero de expediente automáticamente.
+3. Le indicamos el tipo de operación que se va a realizar, en este caso **Segregación**
+4. Le indicamos el solicitante o los solicitantes.
+5. Insertamos una breve descripción del proyecto.
+6. Con el botón derecho sobre **Operaciones**, se despliega un menú con las operaciones que puedes realizar.
+7. Le indicamos la operación que vamos a realizar, en este caso **Nueva Segregación**.![](images/seg+div/seg+div2.jpg)![](images/seg+div/seg+div3.jpg)
+8. Se añade la referencia catastral de la finca objeto de la operación. 
+9. Ventana donde se carga la referencia catastral de la finca objeto de la operación de segregación.
+10. Hay que **Guardar los expediente**, para que se pueda generar fichero para técnico competente.
+11. La Notaría asigna a este expediente un técnico competente.
+12. Asignamos nuevo técnico.
+13. La Notaría asigna a este expediente un técnico competente.
+14. Ahora ya aparecen los técnicos asociados a ese expediente.
+15. Hay que asegurarnos, siempre de guardar el expediente, antes de salir.
