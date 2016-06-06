@@ -72,3 +72,5 @@ El **técnico** genera el fichero DXF. Desde un programa CAD se modifica la parc
 Carga el fichero en la aplicación y archiva el expediente con las modificaciones efectuadas.
 
 ![](images/ag+div/ag+div13.jpg)
+
+Al acceder al expediente de nuevo, desde la Notaría, ya le aparecerán las operaciones de agrupación y división parcelaria realizadas  por el técnico competente y proceder a **Generar la declaración catastral**.
