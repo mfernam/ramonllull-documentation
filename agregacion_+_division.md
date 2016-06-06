@@ -60,3 +60,4 @@ A la hora de salir, nos aseguramos siempre de guardar los cambios realizados en 
 
 Siguiendo en el mismo expediente, el técnico o el Notario, genera la operación de **División parcelaria**.
 Se arrastra la parcela agrupada en la operación anterior  mediante **Copiar** y **Pegar finca agregada**.
+![](images/ag+div/ag+div8.jpg)
