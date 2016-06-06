@@ -61,3 +61,14 @@ A la hora de salir, nos aseguramos siempre de guardar los cambios realizados en 
 Siguiendo en el mismo expediente, el técnico o el Notario, genera la operación de **División parcelaria**.
 Se arrastra la parcela agrupada en la operación anterior  mediante **Copiar** y **Pegar finca agregada**.
 ![](images/ag+div/ag+div8.jpg)
+![](images/ag+div/ag+div9.jpg)
+![](images/ag+div/ag+div10.jpg)
+![](images/ag+div/ag+div11.jpg)
+El **técnico** genera el fichero DXF. Desde un programa CAD se modifica la parcela se divide en varias parcelas (adapta el trabajo de campo y/o de gabinete previo) siempre sobre el fichero DXF generado por el Ramón Llull.
+
+**Guarda el fichero en versión DXF**.  Es muy importante guardar el fichero en la versión más antigua de DXF que permita el programa, ASCII (ASCIIR12).
+![](images/ag+div/ag+div12.jpg)
+
+Carga el fichero en la aplicación y archiva el expediente con las modificaciones efectuadas.
+
+![](images/ag+div/ag+div13.jpg)
