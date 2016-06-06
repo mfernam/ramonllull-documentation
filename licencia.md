@@ -1,2 +1,13 @@
 # Licencia
 
+El gestor de expedientes del Proyecto Ramón Llull está desarrollado sobre software libre. Al comienzo del proyecto el equipo de investigación ya contaba con amplia experiencia en el diseño y explotación de bases de datos geográficas con PostgreSQL/PostGIS, y en el desarrollo de clientes desktop en C# para geoprocesamiento y visualización cartográfica. También se disponía de una serie de librerías y utilidades desarrolladas para otros proyectos sobre SharpMap y NetTopologySuite, el port de Java Topology Suite (JTS) para entornos de ejecución CLI. JTS implementa el estándar Simple Feature Access del OGC y proporciona acceso a funciones de geometría computacional y cálculo topológico idóneas para modelizar procesos de alteración entre pares de parcelas catastrales.
+
+El software libre surge como reacción a la restricción de acceso a código fuente que en origen siempre fue abierto (Stallman, 1999) y regula y protege la libertad de lectura, ejecución, modificación y redistribución del código (Free Software Foundation, 2014), no su gratuidad. En este contexto, los desarrollos colaborativos de código abierto en el campo de las TIG han dado lugar a un ecosistema de librerías, aplicaciones e infraestructuras de soporte de datos geográficos que ha dado en llamarse FOSS4G y que ha pasado en pocos años de un estadio de adopción temprana a otro de madurez y adopción creciente (Steiniger & Hunter, 2013).
+
+Es un hecho que el panorama FOSS4G actual ofrece multitud de opciones y bases de código estables y
+fiables.
+
+Además de usar PostgreSQL como sistema de base de datos, el Proyecto Ramón Llull emplea librerías
+FLOSS y FOSS4G entre las que cabe destacar Spring.NET, Npgsql, NetTopologySuite, SharpMap y PdfSharp. Los tipos de licencia libre abarcan (i) MIT, que puede considerarse la más liberal (Open Source Initiative, 2014), (ii) Apache 2.0, que no requiere que las versiones modificadas tengan que ser distribuidas como software libre (Apache, 2014) y (iii) LGPL, que revoca el comportamiento “viral” de la licencia GPL (Free Software Foundation, 2014).
+
+En general, se trata de licencias permisivas en cuanto a la convivencia de software libre y propietario. Esto facilita la organización y distribución de los ejecutables de forma que se respeta tanto la propiedad intelectual como la potestad del financiador del proyecto para licenciar su código. Este es el caso, por ejemplo, del interfaz de usuario y de las librerías directamente acopladas al modelo de datos (véase Figura 1).
