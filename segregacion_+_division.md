@@ -59,7 +59,7 @@ Por otro lado aparecen, también en el árbol de operaciones, las dos **parcelas
 Al pincha sobre él aparecerá el expediente con todos los datos, que se han generado inicialmente en la notaria, en nuestra ventana de Gestión de expedientes.
 
 Procedimiento a seguir
-Siguiendo en el mismo expediente, el técnico o el Notario, genera la operación de División parcelaria.
+Siguiendo en el mismo expediente, el **técnico** o el **Notario**, genera la operación de **División parcelaria**.
 Se arrastra la parcela agrupada en la operación anterior  mediante **Copiar** y **Pegar finca agregada**.
 
 Se copia la parcela resultante de la operación de segregación anterior.
