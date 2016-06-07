@@ -63,3 +63,28 @@ Siguiendo en el mismo expediente, el **técnico** o el **Notario**, genera la op
 Se arrastra la parcela agrupada en la operación anterior  mediante **Copiar** y **Pegar finca agregada**.
 
 Se copia la parcela resultante de la operación de segregación anterior.
+![](images/seg+div/seg+div16.jpg)
+Se añade al árbol de operaciones una nueva operación de **División parcelaria**.
+![](images/seg+div/seg+div17.jpg)
+Se pega en esa operación la finca resultante de la segregación anterior, con la opción **Pegar finca segregada**.
+![](images/seg+div/seg+div18.jpg)
+Como resultado veremos como la finca ya nos aparece en nuestra ventana.
+Lo siguiente es **Generar el fichero para técnico competente**.
+![](images/seg+div/seg+div19.jpg)
+Este acción genera el fichero DXF (fichero de intercambio), que será utilizado como base por el técnico para la segregación de la parcela en un programa de edición gráfica, siguiendo los mismos pasos que para la operación anterior.
+
+Desde un programa CAD, parte la finca con una polilínea que divida la finca en dos parcelas (la finca segregada y el resto de finca matriz), adaptando al fichero generado por el Ramón Llull el trabajo previo de campo o de gabinete.
+
+![Antes](images/seg+div/seg+div20.jpg)
+![Después](images/seg+div/seg+div21.jpg)
+
+Una vez efectuada la operación, el fichero resultante se archiva con el prefijo *retorno_*, manteniendo el resto del nombre ( \*.rx1.dxf).
+
+Es muy importante **guardar el fichero en la versión más antigua de DXF que permita el programa, ASCII (ASCIIR12)**.
+![](images/seg+div/seg+div22.jpg)
+Volvemos a abrir la aplicación **Ramón Llull** y cargamos el fichero DXF, que acabamos de crear, en la aplicación y archiva el expediente con las modificaciones introducidas.
+![](images/seg+div/seg+div23.jpg)
+Al cargar el fichero vemos como los cambios que hemos realizado en la parcela y cargado en nuestra aplicación ya aparecen reflejados en el expediente. Archiva el expediente con las modificaciones introducidas.
+![](images/seg+div/seg+div24.jpg)
+La **Notaría** puede reabrir el expediente con las operaciones de segregación y división realizadas y **Generar declaración catastral**.
+![](images/seg+div/seg+div25.jpg)
