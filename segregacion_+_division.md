@@ -52,3 +52,14 @@ Ya aparece en el árbol de operaciones nos aparece la parcela originaria:
 Por otro lado aparecen, también en el árbol de operaciones, las dos **parcelas resultantes** de la operación de segregación.
 ![](images/seg+div/seg+div14.jpg)
 ![](images/seg+div/seg+div15.jpg)
+
+
+**2. División parcelaria**
+
+Al pincha sobre él aparecerá el expediente con todos los datos, que se han generado inicialmente en la notaria, en nuestra ventana de Gestión de expedientes.
+
+Procedimiento a seguir
+Siguiendo en el mismo expediente, el técnico o el Notario, genera la operación de División parcelaria.
+Se arrastra la parcela agrupada en la operación anterior  mediante **Copiar** y **Pegar finca agregada**.
+
+Se copia la parcela resultante de la operación de segregación anterior.
