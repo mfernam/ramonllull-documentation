@@ -49,5 +49,6 @@ Al cargar el fichero vemos como los cambios que hemos realizado en la parcela y 
 ![](images/seg+div/seg+div12.jpg)
 Ya aparece en el árbol de operaciones nos aparece la parcela originaria:
 ![](images/seg+div/seg+div13.jpg)
-Por otro lado aparecen, también en el árbol de operaciones, las dos parcelas resultantes de la operación de segregación.
+Por otro lado aparecen, también en el árbol de operaciones, las dos **parcelas resultantes** de la operación de segregación.
 ![](images/seg+div/seg+div14.jpg)
+![](images/seg+div/seg+div15.jpg)
