@@ -4,7 +4,6 @@
 * [Introducción](introduction.md)
 * [Requisitos](requisites.md)
 * [Acceso a la aplicación](acceso_a_la_aplicacion.md)
-   * Control de errores
 * [Alteraciones catastrales](alteracionescatastrales_md.md)
    * [Agregación](agregacion.md)
    * [Segregación](segregacion.md)
@@ -14,6 +13,7 @@
    * [Segregación + División](segregacion_+_division.md)
 * [Obra nueva y división horizontal](obra_nueva_y_division_horizontal.md)
    * [Obra nueva](obra_nueva.md)
+* Control de errores
 * [Licencia](licencia.md)
    * [LGPL](lgpl.md)
 
