@@ -18,4 +18,5 @@ La referencia catastral de la parcela es **03006A00400036**.
  ![](images/on/on3.jpg)
  
 4. **Asigna** un técnico al expediente creado.
-5. 
+5. Guarda el expediente.
+6. El técnico accede ahora a la aplicación, y abre el expediente al que ha sido asignado. 
