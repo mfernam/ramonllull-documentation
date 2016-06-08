@@ -36,4 +36,5 @@ La referencia catastral de la parcela es **03006A00400036**.
 16. Carga el fichero en la aplicación y archiva el expediente con las modificaciones introducidas.<br>![](images/on/on19.jpg)
 17. La aplicación debe mostrar ahora cada una de las plantas con sus divisiones correspondientes. Una vez cargada de nuevo el fichero CAD en la aplicación, el notario puede abrirlo de la misma forma que se ha expuesto previamente para las operaciones de alteraciones catastrales, y obtener de la misma, las superficies exigidas por la legislación registral para su inscripción en el Registro de la Propiedad, es decir, la superficie de ocupación en planta, la superficie total construida, el número de plantas y la distribución (usos) de cada planta. <br>De esta forma, el Notario, a parte de tener la información gráfica apta para ser cargada en el Catastro, dispone de los datos alfanuméricos de la misma para la correspondiente escritura, sin que pueda existir contradicción en los mismos.<br>![](images/on/on20.jpg)![Planta general](images/on/on21.jpg)![Planta_Baja](images/on/on22.jpg)![Primer_Piso](images/on/on23.jpg)
 18. Guardamos el expediente.
-19. El Notario accede al expediente, y genera la declaración catastral.
+19. El Notario accede al expediente, y genera la declaración catastral.<br>![](images/on/on24.jpg)![](images/on/on25.jpg)
+
