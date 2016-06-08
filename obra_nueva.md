@@ -8,7 +8,7 @@ La referencia catastral de la parcela es **03006A00400036**.
 
 *Procedimiento a seguir*
 
-1. El notario o empleado de notaria accede a la aplicación y desde la ventana principal accede al **Gestor de Expedientes de Obra Nueva**. ![](images/on/on1.jpg)
+1. El notario o empleado de notaria accede a la aplicación y desde la ventana principal accede al **Gestor de Expedientes de Obra Nueva**.<br> ![](images/on/on1.jpg)
 2. Crea un expediente nuevo (se asigna automáticamente un nuevo número de expediente de Ramón Llull). 
  
  ![](images/on/on2.jpg)
