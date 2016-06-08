@@ -20,3 +20,5 @@ La referencia catastral de la parcela es **03006A00400036**.
 4. **Asigna** un técnico al expediente creado.
 5. Guarda el expediente.
 6. El técnico accede ahora a la aplicación, y abre el expediente al que ha sido asignado. 
+7. El técnico se descarga el perímetro de la parcela correspondiente a la referencia catastral dada, en cuyo interior se va  a proyectar la obra nueva. 
+8. Una vez descargada la parcela, la aplicación genera automáticamente la Planta General y las Plantas  Significativas, que serán definidas por el técnico.
