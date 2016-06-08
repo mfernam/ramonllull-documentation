@@ -33,3 +33,5 @@ La referencia catastral de la parcela es **03006A00400036**.
 13. El técnico, desde un programa CAD, debe editarlo y debe ir insertando las plantas según correspondan (planta general o planta significativas). De manera que en la capa RX1_LINEASINTERIORES, corresponde a la división de usos de toda la parcela; PLANTA_BAJA y PRIMER_PISO corresponden a las plantas significativas.<br>![](images/on/on14.jpg)
 14. Cada uno de los usos en los que se descompone las plantas deben ir etiquetadas según la nomenclatura de Catastro. Ej: vivienda = v; terraza=tza...![Planta general](images/on/on16.jpg)![Planta baja (planta significativa)](images/on/on15.jpg)![Primer piso (planta significativa)](images/on/on17.jpg)
 15. Guarda el fichero en la versión más antigua de dxf que permita el programa.
+16. Carga el fichero en la aplicación y archiva el expediente con las modificaciones introducidas.
+17. La aplicación debe mostrar ahora cada una de las plantas con sus divisiones correspondientes. Una vez cargada de nuevo el fichero CAD en la aplicación, el notario puede abrirlo de la misma forma que se ha expuesto previamente para
