@@ -30,4 +30,5 @@ La referencia catastral de la parcela es **03006A00400036**.
 10. El proyecto consta de una vivienda con dos plantas y una piscina.<br>![](images/on/on12.jpg)
 11. Cuando se añaden las plantas significativas, los nombres es importante que no contengan espacios en blanco. Una vez creado el esqueleto sobre el que crear el proyecto o adecuar el existente a éste, se crea el fichero dxf pulsando Generar fichero para técnico competente.<br>![](images/on/on13.jpg)
 12. Guardamos el expediente y salimos.
-13. El técnico, desde un programa CAD, debe editarlo y debe ir insertando las plantas según correspondan (planta general o planta significativas). De manera que en la capa RX1_LINEASINTERIORES, corresponde a la división de usos de toda la parcela; PLANTA_BAJA y PRIMER_PISO corresponden a las plantas significativas.
+13. El técnico, desde un programa CAD, debe editarlo y debe ir insertando las plantas según correspondan (planta general o planta significativas). De manera que en la capa RX1_LINEASINTERIORES, corresponde a la división de usos de toda la parcela; PLANTA_BAJA y PRIMER_PISO corresponden a las plantas significativas.<br>![](images/on/on14.jpg)
+14. Cada uno de los usos en los que se descompone las plantas deben ir etiquetadas según la nomenclatura de Catastro. Ej: vivienda = v; terraza=tza...
