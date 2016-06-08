@@ -27,4 +27,7 @@ La referencia catastral de la parcela es **03006A00400036**.
 	Así por ejemplo, en la siguiente figura se puede apreciar el aspecto y distribución que tendría una planta significativa de una obra nueva.![](images/on/on9.jpg)
     Cada **planta significativa** tendrá incluidas todas las construcciones de esa planta en todos los edificios. Por ejemplo, si una parcela tiene dos edificios, uno de dos plantas y otro de una, en la planta baja estarán los dos edificios y en la primera solo el que tiene dos plantas.<br> ![](images/on/on10.jpg)![](images/on/on11.jpg)
     
-10. El proyecto consta de una vivienda con dos plantas y una piscina.
+10. El proyecto consta de una vivienda con dos plantas y una piscina.<br>![](images/on/on12.jpg)
+11. Cuando se añaden las plantas significativas, los nombres es importante que no contengan espacios en blanco. Una vez creado el esqueleto sobre el que crear el proyecto o adecuar el existente a éste, se crea el fichero dxf pulsando Generar fichero para técnico competente.<br>![](images/on/on13.jpg)
+12. Guardamos el expediente y salimos.
+13. El técnico, desde un programa CAD, debe editarlo y debe ir insertando las plantas según correspondan (planta general o planta significativas). De manera que en la capa RX1_LINEASINTERIORES, corresponde a la división de usos de toda la parcela; PLANTA_BAJA y PRIMER_PISO corresponden a las plantas significativas.
