@@ -47,4 +47,9 @@ A continuación sobre la planta general el técnico va a definir cada una de las
 3. La planta significativa correspondiente a las cuatro plantas altas (de la primera a la cuarta).
 4. La planta significativa correspondiente a la planta ático. <br> En el caso que haya más de una altura para cada planta significativa se hará siguiendo la siguiente estructura: <br> ![](images/ag+on+dh/ag+on+dh10.jpg) ![](images/ag+on+dh/ag+on+dh11.jpg)
 
-**2.** Una vez creado el esqueleto sobre el que crear el proyecto o adecuar el existente a éste, se crea el fichero dxf pulsando **Generar fichero para técnico competente**.
+
+**2.** Una vez creado el esqueleto sobre el que crear el proyecto o adecuar el existente a éste, se crea el fichero dxf pulsando **Generar fichero para técnico competente**.<br> ![](images/ag+on+dh/ag+on+dh12.jpg)
+**3.** El técnico, desde un programa CAD, debe editarlo e ir insertando las plantas según correspondan (planta general o planta significativas).  En primer lugar, define los perímetros correspondiente a cada unidad independiente que va a formar una inmueble con referencia catastral propia e independiente. Una vez delimitadas las unidades independientes define, dentro de cada una, las zonas dedicadas a cada uso respectivo. Ej: vivienda = v; terraza=tza...
+	La misma operación se realiza en las dos plantas de subsuelo para delimitar e identificar las plazas de garaje y los trasteros. 
+	Sin embargo, esta operación no será necesario efectuarla en la planta baja, ya que está enteramente dedicada a usos comunes y por tanto, sólo es necesario delimitar las zonas correspondientes a los citados usos, si los hubiera.
+	De esta forma, la aplicación deja identificadas las zonas correspondientes a las unidades independientes para que les pueda ser asignada una referencia catastral propia e independiente.
