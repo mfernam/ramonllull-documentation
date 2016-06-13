@@ -36,13 +36,15 @@ El Notario crea una nueva operación correspondiente a la agrupación y descarga
 
 *Procedimiento a seguir*
 
-1. Como ya se ha expuesto en el caso anterior (ver declaración de Obra Nueva), la planta general es la representación, dentro de la línea perimetral de la parcela, de los recintos de las distintas subparcelas o áreas de diferente grado o tipo de edificación que la componen.  Coincide con representación de la parcela en la cartografía catastral. Es lo que el RD/1997 define como superficie de ocupación en planta.<br>
+**1.** Como ya se ha expuesto en el caso anterior (ver declaración de Obra Nueva), la planta general es la representación, dentro de la línea perimetral de la parcela, de los recintos de las distintas subparcelas o áreas de diferente grado o tipo de edificación que la componen.  Coincide con representación de la parcela en la cartografía catastral. Es lo que el RD/1997 define como superficie de ocupación en planta.<br>
 A continuación sobre la planta general el técnico va a definir cada una de las plantas, en este caso cinco, que componen la edificación distinguiendo en cada una de ellas, cada una de las unidades susceptibles de aprovechamiento independiente, y a su vez, dentro de cada una de éstas, las zonas dedicadas a sus diferentes usos (vivienda, terraza, etc...). Así mismo, dentro de cada planta, la zona que no quede asignada a formar parte de una unidad independiente, se considera siempre, zona o elementos comunes. De acuerdo con la terminología catastral, todas las plantas iguales en superficie y uso dentro de una construcción reciben la denominación de planta significativa. Pero en todo caso, la aplicación distingue el nivel en que se halla cada planta.<br>
 > Así por ejemplo, en la siguiente figura se puede apreciar el aspecto y distribución que tendría una planta significativa de una obra nueva con creación dentro de cada planta de unidades independientes (a su vez con sus usos respectivos). 
          
 <br>![](images/ag+on+dh/ag+on+dh8.jpg)<br>Cada **planta significativa** tendrá incluidas todas las construcciones de esa planta en todos los edificios. Por ejemplo, si una parcela tiene dos edificios, uno de dos plantas y otro de una, en la planta baja estarán los dos edificios y en la primera solo el que tiene dos plantas.<br> ![](images/ag+on+dh/ag+on+dh9.jpg)<br>El proyecto consta de un edificio con dos sótanos destinados a aparcamientos y trasteros. La planta baja correspondería a la entrada /portería del edificio, cada una de las plantas altas tiene el mismo número de unidades independientes (seis por planta) excepto el ático, que sólo tiene dos unidades con sus respectivas terrazas.
 	En este caso, las plantas significativas serían: 
 1. La planta significativa de sótano (dos plantas en subsuelo con la misma distribución).
-	2.- La planta significativa correspondiente a la planta baja.
-	3.- La planta significativa correspondiente a las cuatro plantas altas (de la primera a la cuarta).
-	4.- La planta significativa correspodiente a la planta ático.
+2. La planta significativa correspondiente a la planta baja.
+3. La planta significativa correspondiente a las cuatro plantas altas (de la primera a la cuarta).
+4. La planta significativa correspondiente a la planta ático. <br> En el caso que haya más de una altura para cada planta significativa se hará siguiendo la siguiente estructura: <br> ![](images/ag+on+dh/ag+on+dh10.jpg) ![](images/ag+on+dh/ag+on+dh11.jpg)
+
+**2.** Una vez creado el esqueleto sobre el que crear el proyecto o adecuar el existente a éste, se crea el fichero dxf pulsando **Generar fichero para técnico competente**.
