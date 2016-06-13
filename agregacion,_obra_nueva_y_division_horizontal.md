@@ -28,4 +28,5 @@ El Notario crea una nueva operación correspondiente a la agrupación y descarga
 8. Ventana donde se cargan las referencias catastrales de las fincas implicadas en la operación de agregación.
 9. Podemos visualizar las cuatro parcelas que hemos añadido en la ventana gráfica.
 10. Una vez descargados todos los inmuebles, el Notario genera el fichero respondiente al inmueble resultante de la agrupación, mediante Generación de parcela resultante.![](images/ag+on+dh/ag+on+dh1.jpg)![](images/ag+on+dh/ag+on+dh2.jpg)
-11. A continuación se procede a la operación de **Obra Nueva**. Sobre la parcela resultante, seleccionamos la opción **Generar expediente de obra nueva**.
+11. A continuación se procede a la operación de **Obra Nueva**. Sobre la parcela resultante, seleccionamos la opción **Generar expediente de obra nueva**.<br>![](images/ag+on+dh/ag+on+dh4.jpg)
+12. Se abre un nuevo expediente de Obra Nueva cuya referencia catastral asignada a la parcela nueva es un código temporal asignado por la aplicación.
