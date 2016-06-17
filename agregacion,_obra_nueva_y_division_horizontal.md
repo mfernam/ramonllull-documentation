@@ -61,3 +61,4 @@ A continuación sobre la planta general el técnico va a definir cada una de las
 ![](images/ag+on+dh/ag+on+dh19.jpg)![](images/ag+on+dh/ag+on+dh20.jpg)
 <br>
 ![](images/ag+on+dh/ag+on+dh21.jpg)
+<br> **7.** Una vez cargado el dxf del técnico, guardar el expediente.
