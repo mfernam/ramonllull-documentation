@@ -53,6 +53,8 @@ A continuación sobre la planta general el técnico va a definir cada una de las
 	La misma operación se realiza en las dos plantas de subsuelo para delimitar e identificar las plazas de garaje y los trasteros. 
 	Sin embargo, esta operación no será necesario efectuarla en la planta baja, ya que está enteramente dedicada a usos comunes y por tanto, sólo es necesario delimitar las zonas correspondientes a los citados usos, si los hubiera.
 	De esta forma, la aplicación deja identificadas las zonas correspondientes a las unidades independientes para que les pueda ser asignada una referencia catastral propia e independiente. ![Planta general](images/ag+on+dh/ag+on+dh13.jpg)![Sótano](images/ag+on+dh/ag+on+dh14.jpg) ![Planta baja](images/ag+on+dh/ag+on+dh15.jpg) ![Ático](images/ag+on+dh/ag+on+dh16.jpg)<br>
-**4.** Guarda el fichero en la versión más antigua de dxf que permita el programa, y siempre le añadiremos delante de la extensión ".rx1", para que lo cargue el programa. <br> ![](images/ag+on+dh/ag+on+dh18.jpg)
-**5.** Carga el fichero en la aplicación y archiva el expediente con las modificaciones introducidas.
+**4.** Guarda el fichero en la versión más antigua de dxf que permita el programa, y siempre le añadiremos delante de la extensión ".rx1", para que lo cargue el programa. <br> ![](images/ag+on+dh/ag+on+dh17.jpg)<br> 
+**5.** Carga el fichero en la aplicación y archiva el expediente con las modificaciones introducidas. <br> ![](images/ag+on+dh/ag+on+dh18.jpg)
+<br>
+**6.** La aplicación debe mostrar ahora cada una de las plantas con sus divisiones correspondientes.
     
