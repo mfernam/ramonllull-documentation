@@ -62,3 +62,14 @@ A continuación sobre la planta general el técnico va a definir cada una de las
 <br>
 ![](images/ag+on+dh/ag+on+dh21.jpg)
 <br> **7.** Una vez cargado el dxf del técnico, guardar el expediente.
+<br><br>
+
+
+**3. División horizontal** <br> *Procedimiento a seguir:*
+
+  
+1. Abre el expediente, seleccionamos Administrador de División Horizontal.<br> ![](images/ag+on+dh/ag+on+dh23.jpg)
+2. Además la aplicación permite, una vez delimitadas e identificadas las unidades independientes originarias según el proyecto, la agrupación o vinculación de las mismas bajo una única referencia catastral.
+3. Identificamos, dentro de la construcción, cada una de las unidades constructivas que van a formar fincas o inmuebles independientes dentro de la división horizontal, agrupando dentro del perímetro de cada una de ella las zonas que corresponden a cada uso.<br> Agrupamos los usos que corresponden al mismo propietario, en este caso. Por ejemplo, un propietario de un piso en la tercera planta, que tiene una plaza de aparcamiento y un trastero. Para ello se seleccionan las unidades que se desean y se pulsa el botón Agrupar. ![](images/ag+on+dh/ag+on+dh24.jpg)
+4. Guardamos el expediente y accede el notario o empleado de notaria para generar la declaración catastral. 
+5. Generaremos una declaración catastral por cada unidad creada.![](images/ag+on+dh/ag+on+dh25.jpg)
