@@ -58,3 +58,6 @@ A continuación sobre la planta general el técnico va a definir cada una de las
 <br>
 **6.** La aplicación debe mostrar ahora cada una de las plantas con sus divisiones correspondientes.
     
+![](images/ag+on+dh/ag+on+dh19.jpg)![](images/ag+on+dh/ag+on+dh20.jpg)
+<br>
+![](images/ag+on+dh/ag+on+dh21.jpg)
