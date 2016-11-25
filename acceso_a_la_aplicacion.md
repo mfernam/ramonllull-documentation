@@ -13,7 +13,7 @@ Desde la siguiente dirección [http://www.ancert.com/liferay/web/ancert/personal
 
 **Perfil técnico**
 
-Este perfil accede a la aplicación usando el certificado expedido por la Generalitat Valenciana, o el DNI electrónico. 
+Este perfil accede a la aplicación usando el certificado expedido por la Generalitat Valenciana, el DNI electrónico o el certificado de la FNMT.
 
 Desde la página de la agencia de tecnología y certificación electrónica de la Generalitat Valenciana [http://www.accv.es/ayuda/descargar-certificados-digitales/](http://www.accv.es/ayuda/descargar-certificados-digitales/) descargaremos e instalaremos los certificados raíz.
 
